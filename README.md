@@ -1,4 +1,4 @@
-#Azure Service Bus with Function app demo
+# Azure Service Bus with Function app demo
 
 
 # Service Bus Subscriber Demo
